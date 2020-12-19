@@ -1,5 +1,10 @@
 # Matching
 
+## Developer
+$Merron$
+
+## Introduce
+
 This is an application to `Beat Matching`.
 
 It can only run on `Windows`.
