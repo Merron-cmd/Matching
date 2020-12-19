@@ -1,7 +1,6 @@
 # Matching
 
 ## Developer
-$Merron$
 
 ## Introduce
 
