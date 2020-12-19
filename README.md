@@ -19,7 +19,7 @@ Then, input `compare r test1 test2`.
 
 ## User Interface
 
-<img src=http://chuantu.xyz/t6/741/1608359136x1700340279.jpg />
+![](http://chuantu.xyz/t6/741/1608359136x1700340279.jpg)
 
 ## The way to use:
 - Dowload
