@@ -1,6 +1,8 @@
 # Matching
 
 ## Developer
+[Merron](https://www.luogu.com.cn/user/338370)
+[史强](https://www.luogu.com.cn/user/226335)
 
 ## Introduce
 
